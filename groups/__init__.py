@@ -1,3 +1,3 @@
 """__init__ file for groups package."""
 
-from .groups import Element, CyclicGroup  # noqa F401
+from .groups import Element, CyclicGroup, Group  # noqa F401
